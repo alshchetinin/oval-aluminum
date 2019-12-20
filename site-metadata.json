@@ -3,6 +3,7 @@
   "accent_color": "pink",
   "header": {
     "title": "Exto",
+    "logo_img": "/images/5_thumb.jpg",
     "has_nav": true
   },
   "footer": {
