@@ -1,1 +1,10 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "20",
+      "title": "New",
+      "url": "https://www.stackbit.com/",
+      "weight": 1
+    }
+  ]
+}
